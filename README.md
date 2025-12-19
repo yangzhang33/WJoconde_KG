@@ -83,3 +83,4 @@ The final output `final_selected_entities.csv` contains:
 - `num_selected`: Count of selected entities
 - `entity_details`: Per-entity LLM/VLM responses
 
+## Citation
